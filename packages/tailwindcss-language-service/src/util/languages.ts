@@ -29,6 +29,7 @@ export const htmlLanguages = [
   'php',
   'razor',
   'slim',
+  'ss',
   'surface',
   'twig',
 ]
